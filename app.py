@@ -86,7 +86,7 @@ custom_stopwords.update([
     'ayam', 'jakarta', 'bandung', 'saudi', 'china', 'juta', 'meil', 'mei',
     'pagi', 'kembali', 'alami', 'selama', 'ikut', 'perempuan', 'pria', 'beli',
     'baru', 'lama', 'cepat', 'terus', 'guna', 'buat', 'salah', 'cuma', 'terbaik',
-    'pentingnya', 'vision', 'langit', 'terjadi', 'naik', 'masa', 'hanya'
+    'pentingnya', 'vision', 'langit', 'terjadi', 'naik', 'masa', 'hanya', 'cat', 'daun', 'lambung'
 ])
 
 wordcloud = WordCloud(
